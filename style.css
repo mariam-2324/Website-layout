@@ -1,0 +1,52 @@
+.card {
+    color: #6ed198;
+}
+
+
+
+/* =========sub-heading============= */ */
+/* cheading-color#6ed198 */
+
+
+/* heading-color(grey) #6c757d
+} */
+
+.navbar {
+    background-color: #788a76;
+}
+.cover {
+    background-color: #788a76!important;
+}
+.letter {
+    background-color: #788a76!important;
+}
+.main {
+    background-color: #788a76!important;
+}
+.card {
+    color: #6ed198!important;
+}
+.overlay {
+    width: 100%;
+}
+
+/* .maintxt {
+    background-image: url(project-img/ban1.jpg);
+    background-size: cover;
+} */
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+
+
+
