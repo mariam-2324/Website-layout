@@ -1,18 +1,13 @@
-.card {
-    color: #6ed198;
+root {
+    theme-color: #788a76
+    headingcolor: #6ed198
+    heading-color: #6c757d
 }
 
 
 
-/* =========sub-heading============= */ */
-/* cheading-color#6ed198 */
-
-
-/* heading-color(grey) #6c757d
-} */
-
 .navbar {
-    background-color: #788a76;
+      background-color: #788a76;
 }
 .cover {
     background-color: #788a76!important;
@@ -23,18 +18,13 @@
 .main {
     background-color: #788a76!important;
 }
-.card {
+.title {
     color: #6ed198!important;
 }
+
 .overlay {
     width: 100%;
 }
-
-/* .maintxt {
-    background-image: url(project-img/ban1.jpg);
-    background-size: cover;
-} */
-
 .container {
     position: relative;
     text-align: center;
@@ -45,6 +35,9 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+  }
+  .rowan {
+    background-color: #788a76!important;
   }
   
 
