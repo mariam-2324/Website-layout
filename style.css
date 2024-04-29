@@ -1,8 +1,9 @@
 root {
     theme-color: #788a76
-    headingcolor: #6ed198
-    heading-color: #6c757d
+    headingcolor #6ed198
+    heading-color #6c757d
 }
+
 
 
 
@@ -39,6 +40,21 @@ root {
   .rowan {
     background-color: #788a76!important;
   }
+  .moran {
+    background-color: #788a76!important;
+  }
+  .logo {
+    background-color: #788a76;
+  }
+  .butnory {
+    width: 50%;
+  }
+
+
+
+
+
+
   
 
 
